@@ -1,0 +1,23 @@
+{
+  "config": {
+    "chainId": 103003,
+    "shanghaiBlock": 0,
+    "clique": {
+      "blockperiodseconds": 2,
+      "epochlength": 30000,
+      "requesttimeoutseconds": 4
+    }
+  },
+  "nonce": "0x0",
+  "timestamp": "0x65985b97",
+  "extraData": "0xf83ea00000000000000000000000000000000000000000000000000000000000000000d5949811ebc35d7b06b3fa8dc5809a1f9c52751e1deb808400000000c0",
+  "gasLimit": "0x1fffffffffffff",
+  "difficulty": "0x1",
+  "mixHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "coinbase": "0x0000000000000000000000000000000000000000",
+  "alloc": {
+    "f118a63E2E644EC31a8745904Ea1bBdd4F5ef6D8": {
+      "balance": "1000000000000000000000000000"
+    }
+  }
+}
